@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#main-title{
+    height:25vh;
+    background:linear-gradient(gray,wheat);
+    text-align:justify;
+    text-align: left;
+}
+#title{
+    color: black;
+    /* letter-spacing:1rem; */
+    /* font-size:100px; */
+}
